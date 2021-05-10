@@ -1,0 +1,204 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-09 19:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\websiteapp\views.py:22
+msgid "Welcome to language translation!"
+msgstr "Добро пожаловать в языковой перевод!"
+
+#: .\websiteproj\settings.py:121
+msgid "English"
+msgstr "английский"
+
+#: .\websiteproj\settings.py:123
+msgid "German"
+msgstr "Немецкий"
+
+#: .\websiteproj\settings.py:125
+msgid "Russian"
+msgstr "русский"
+
+#: .\websiteproj\templates\index.html:35 .\websiteproj\templates\index.html:59
+msgid "Cork City Walks"
+msgstr "Прогулки по городу Корк"
+
+#: .\websiteproj\templates\index.html:39
+msgid "Home"
+msgstr "Дом"
+
+#: .\websiteproj\templates\index.html:41
+msgid "Private tours"
+msgstr "Частные туры"
+
+#: .\websiteproj\templates\index.html:43
+msgid "About us"
+msgstr "О нас"
+
+#: .\websiteproj\templates\index.html:45
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: .\websiteproj\templates\index.html:47
+msgid "Public tours"
+msgstr "Общественные туры"
+
+#: .\websiteproj\templates\index.html:49
+msgid "Booking"
+msgstr "Бронирование"
+
+#: .\websiteproj\templates\index.html:60
+msgid "A Hundred Thousand Welcomes"
+msgstr "Сотня тысяч приветствий"
+
+#: .\websiteproj\templates\index.html:65
+msgid "Céad Míle Fáilte!"
+msgstr "Добро пожаловать!"
+
+#: .\websiteproj\templates\index.html:66
+msgid ""
+"We encourage interaction and banter as we seek to share with you our love of "
+"Cork, its unique history, friendly people, colourful culture and Corkonian "
+"wit and traditions. We will take you on a leisurely walk around the compact "
+"800 year old city, where you will experience the smells and sounds of the "
+"English Market, stroll the busy lanes of the 18th century Huguenot Quarter "
+"and wonder at Burges’s magnificent French Neo-Gothic cathedral.Mindful that "
+"a healthy walk generates a good appetite, we will help you discover a "
+"variety of places to eat, drink, enjoy live music (ceol agus craic) and "
+"enjoy the best entertainment Cork has to offer during your visit. At "
+"journey’s end our wish will be that we have lived up to your expectations "
+"and that when you return home you will encourage family and friends to visit "
+"Cork by the Lee."
+msgstr "Мы поощряем общение и подшучивания, поскольку мы стремимся поделиться с вами нашей любовью к Корку, его уникальной историей, дружелюбными людьми, яркой культурой, остроумием и традициями Коркона. Мы возьмем вас на неторопливую прогулку по компактному 800-летнему городу, где вы ощутите запахи и звуки Английского рынка, прогуляетесь по оживленным улочкам квартала гугенотов 18-го века и полюбуйтесь великолепным французским неоготическим собором Берджа. Помня о том, что здоровая прогулка вызывает хороший аппетит, мы поможем вам открыть для себя множество мест, где можно поесть, выпить, насладиться живой музыкой (ceol agus craic) и насладиться лучшими развлечениями, которые Корк может предложить во время вашего визита. В конце путешествия мы пожелаем, чтобы мы оправдали ваши ожидания и, когда вы вернетесь домой, вы посоветуете семье и друзьям посетить Корк у реки Ли."
+
+#: .\websiteproj\templates\index.html:67
+msgid "Click below to learn more "
+msgstr "Нажмите ниже, чтобы узнать больше"
+
+#: .\websiteproj\templates\index.html:67
+msgid "News"
+msgstr "Новости"
+
+#: .\websiteproj\templates\index.html:76
+msgid ""
+"Our 2019 walk will be of circa two hours duration, be conducted primarily on "
+"the city centre island and will embrace the historical and cultural life of "
+"Cork by the Lee from monastic times into the 21st century. Places and "
+"buildings of interest outside the confines of the walk (e. g. Shandon, "
+"University College Cork) will, however, be woven into the fabric of the "
+"story we tell. Information on entertainment and culinary matters are "
+"imparted as we walk. We are adept at ensuring our guests have a dry and "
+"enjoyable experience when inclement conditions prevail."
+msgstr " Наша прогулка в 2019 году будет длиться около двух часов, будет проводиться в основном на острове в центре города и будет охватывать историческую и культурную жизнь Корка Ли с монашеских времен до 21 века. Места и здания, представляющие интерес, за пределами пешеходной зоны (например, Шандон, Университетский колледж Корка), тем не менее, будут вплетены в ткань истории, которую мы рассказываем. Информация о развлечениях и кулинарии дается во время прогулки. Мы умеем делать так, чтобы у наших гостей было сухое и приятное времяпрепровождение в суровых погодных условиях."
+
+#: .\websiteproj\templates\index.html:76 .\websiteproj\templates\index.html:80
+#: .\websiteproj\templates\index.html:84
+msgid "Continue reading"
+msgstr "продолжить чтение
+"
+
+#: .\websiteproj\templates\index.html:80
+msgid ""
+"Each programme is generated to suit the interests and time commitments of "
+"individuals, couples, families or groups from the private, educational and "
+"corporate sectors. Private walks of two, three or four hours are regularly "
+"organised.These tours can also include a mini tasting experience in our "
+"beloved English Market which can help create a unique relaxing interlude "
+"during or on termination of a private guided walk."
+msgstr "Каждая программа разработана с учетом интересов и временных затрат отдельных лиц, пар, семей или групп из частного, образовательного и корпоративного секторов. Регулярно организуются частные прогулки продолжительностью два, три или четыре часа. Эти туры также могут включать в себя мини-дегустации. на нашем любимом Английском рынке, который может помочь создать уникальный расслабляющий перерыв во время или по окончании частной прогулки с гидом."
+
+#: .\websiteproj\templates\index.html:83
+msgid "Important information"
+msgstr "Важная информация"
+
+#: .\websiteproj\templates\index.html:84
+msgid ""
+"Available all year round on request.Can be tailor made to meet the special "
+"interests, needs and preferred times of each individual client.Group rates "
+"available on request.Cork City Walks has experience of guided walking tours "
+"with local and international student groups.Special student rates apply"
+msgstr "Доступно круглый год по запросу. Может быть адаптировано с учетом особых интересов, потребностей и предпочтительного времени каждого отдельного клиента. Групповые тарифы доступны по запросу. Cork City Walks имеет опыт проведения пешеходных экскурсий с гидом с местными и международными студенческими группами. применяются ставки"
+
+#: .\websiteproj\templates\index.html:91
+msgid "Covid Update"
+msgstr "Covid Update!"
+
+#: .\websiteproj\templates\index.html:92
+msgid ""
+"During the current Covid-19 pandemic our primary concern throughout has been "
+"the safety of all who decide to walk with us to enjoy an informative and "
+"happy two hours exploring Cork, our city by the Lee.We in Cork City Walks "
+"have therefore cancelled our daily and private walking tours until the end "
+"of August 2020, when we will again review this policy for September and "
+"October. "
+msgstr "Во время нынешней пандемии Covid-19 нашей главной заботой всегда была безопасность всех, кто решит прогуляться с нами, чтобы насладиться информативными и счастливыми двумя часами знакомства с Корком, нашим городом у реки Ли."
+
+#: .\websiteproj\templates\index.html:93
+msgid "Meanwhile, please stay safe and healthy. Our best wishes, Bart and Jack"
+msgstr "А пока, пожалуйста, будьте в безопасности и здоровы. Наши наилучшие пожелания, Барт и Джек"
+
+#: .\websiteproj\templates\index.html:98
+msgid "Our staff"
+msgstr "Наш персонал"
+
+#: .\websiteproj\templates\index.html:99
+msgid "Meet our wonderful tour guides"
+msgstr "Познакомьтесь с нашими замечательными экскурсоводами "
+
+#: .\websiteproj\templates\index.html:110
+msgid "Cancellation policy"
+msgstr "Политика отмены"
+
+#: .\websiteproj\templates\index.html:111
+msgid "100% refund on cancellations 7 days + before booking date, 50%% refund on cancellations 2-6 days before booking date , No refund on cancellations less than 48 hours before booking date"
+msgstr "Возврат 100 при отмене за 7 дней + до даты бронирования, возврат 50 % при отмена за 2-6 дней до даты бронирования, при отмене меньше возмещение не производится»«чем за 48 часов до даты бронирования"
+
+#: .\websiteproj\templates\index.html:114
+msgid "More About Us"
+msgstr "О нас"
+
+#: .\websiteproj\templates\index.html:116
+msgid "Opening times"
+msgstr "Время работы"
+
+#: .\websiteproj\templates\index.html:117
+msgid "Booking form"
+msgstr "Бронирование"
+
+#: .\websiteproj\templates\index.html:118
+msgid "Contact us"
+msgstr "Свяжитесь с нами"
+
+#: .\websiteproj\templates\index.html:119
+msgid "Accounting"
+msgstr "Бухгалтерский учет"
+
+#: .\websiteproj\templates\index.html:123
+msgid "Visit our social pages"
+msgstr "Посетите наши социальные страницы"
+
+#: .\websiteproj\templates\index.html:131
+msgid "News and Updates"
+msgstr "Новости и обновления"
+
+#: .\websiteproj\templates\index.html:132
+msgid "Sign up to recieve news and promotions"
+msgstr "Подпишитесь, чтобы получать новости и акции"
+

@@ -1,0 +1,252 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-09 19:53+0100\n"
+"PO-Revision-Date: 2021-05-09 20:50+0100\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.3\n"
+
+#: .\websiteapp\views.py:22
+msgid "Welcome to language translation!"
+msgstr "Willkommen zur Sprachübersetzung!"
+
+#: .\websiteproj\settings.py:121
+msgid "English"
+msgstr "Englisch"
+
+#: .\websiteproj\settings.py:123
+msgid "German"
+msgstr "Deutsche"
+
+#: .\websiteproj\settings.py:125
+msgid "Russian"
+msgstr "Russisch"
+
+#: .\websiteproj\templates\index.html:35 .\websiteproj\templates\index.html:59
+msgid "Cork City Walks"
+msgstr "Cork City Spaziergänge"
+
+#: .\websiteproj\templates\index.html:39
+msgid "Home"
+msgstr "Zuhause"
+
+#: .\websiteproj\templates\index.html:41
+msgid "Private tours"
+msgstr "Private Touren"
+
+#: .\websiteproj\templates\index.html:43
+msgid "About us"
+msgstr "Über uns"
+
+#: .\websiteproj\templates\index.html:45
+msgid "Contact Us"
+msgstr ""
+"\n"
+"Kontaktiere uns"
+
+#: .\websiteproj\templates\index.html:47
+msgid "Public tours"
+msgstr "Öffentliche Führungen"
+
+#: .\websiteproj\templates\index.html:49
+msgid "Booking"
+msgstr "Buchung"
+
+#: .\websiteproj\templates\index.html:60
+msgid "A Hundred Thousand Welcomes"
+msgstr "Hunderttausend Willkommen"
+
+#: .\websiteproj\templates\index.html:65
+msgid "Céad Míle Fáilte!"
+msgstr "Céad Míle Fáilte!"
+
+#: .\websiteproj\templates\index.html:66
+msgid ""
+"We encourage interaction and banter as we seek to share with you our love of "
+"Cork, its unique history, friendly people, colourful culture and Corkonian "
+"wit and traditions. We will take you on a leisurely walk around the compact "
+"800 year old city, where you will experience the smells and sounds of the "
+"English Market, stroll the busy lanes of the 18th century Huguenot Quarter "
+"and wonder at Burges’s magnificent French Neo-Gothic cathedral.Mindful that "
+"a healthy walk generates a good appetite, we will help you discover a "
+"variety of places to eat, drink, enjoy live music (ceol agus craic) and "
+"enjoy the best entertainment Cork has to offer during your visit. At "
+"journey’s end our wish will be that we have lived up to your expectations "
+"and that when you return home you will encourage family and friends to visit "
+"Cork by the Lee."
+msgstr ""
+"Wir fördern die Interaktion und die Scherze, während wir versuchen, unsere "
+"Liebe zu Cork, seiner einzigartigen Geschichte, den freundlichen Menschen, "
+"der farbenfrohen Kultur und dem korkonischen Witz und den Traditionen mit "
+"Ihnen zu teilen. Wir nehmen Sie mit auf einen gemütlichen Spaziergang durch "
+"die kompakte 800 Jahre alte Stadt, wo Sie die Gerüche und Geräusche des "
+"englischen Marktes erleben, durch die belebten Gassen des Hugenottenviertels "
+"aus dem 18. Jahrhundert schlendern und die prächtige französische "
+"neugotische Kathedrale von Burges bestaunen können. In dem Bewusstsein, dass "
+"ein gesunder Spaziergang einen guten Appetit erzeugt, helfen wir Ihnen "
+"dabei, eine Vielzahl von Orten zu entdecken, an denen Sie essen, trinken, "
+"Live-Musik (ceol agus craic) genießen und die beste Unterhaltung genießen "
+"können, die Cork während Ihres Besuchs zu bieten hat. Am Ende der Reise "
+"wünschen wir uns, dass wir Ihre Erwartungen erfüllt haben und dass Sie bei "
+"Ihrer Rückkehr nach Hause Familie und Freunde ermutigen, Cork by the Lee zu "
+"besuchen."
+
+#: .\websiteproj\templates\index.html:67
+msgid "Click below to learn more "
+msgstr "Klicken Sie unten, um mehr zu erfahren "
+
+#: .\websiteproj\templates\index.html:67
+msgid "News"
+msgstr "Nachrichten"
+
+#: .\websiteproj\templates\index.html:76
+msgid ""
+"Our 2019 walk will be of circa two hours duration, be conducted primarily on "
+"the city centre island and will embrace the historical and cultural life of "
+"Cork by the Lee from monastic times into the 21st century. Places and "
+"buildings of interest outside the confines of the walk (e. g. Shandon, "
+"University College Cork) will, however, be woven into the fabric of the "
+"story we tell. Information on entertainment and culinary matters are "
+"imparted as we walk. We are adept at ensuring our guests have a dry and "
+"enjoyable experience when inclement conditions prevail."
+msgstr ""
+"Unsere Wanderung 2019 dauert ca. zwei Stunden, wird hauptsächlich auf der "
+"Insel im Stadtzentrum durchgeführt und umfasst das historische und "
+"kulturelle Leben von Cork durch die Lee von den Klosterzeiten bis ins 21. "
+"Jahrhundert. Orte und Gebäude von Interesse außerhalb der Grenzen des "
+"Spaziergangs (z. B. Shandon, University College Cork) werden jedoch in den "
+"Stoff der Geschichte eingewebt, die wir erzählen. Informationen zu "
+"Unterhaltung und kulinarischen Themen werden während des Gehens vermittelt. "
+"Wir sind in der Lage sicherzustellen, dass unsere Gäste bei schlechten "
+"Bedingungen ein trockenes und angenehmes Erlebnis haben."
+
+#: .\websiteproj\templates\index.html:76 .\websiteproj\templates\index.html:80
+#: .\websiteproj\templates\index.html:84
+msgid "Continue reading"
+msgstr "Weiterlesen"
+
+#: .\websiteproj\templates\index.html:80
+msgid ""
+"Each programme is generated to suit the interests and time commitments of "
+"individuals, couples, families or groups from the private, educational and "
+"corporate sectors. Private walks of two, three or four hours are regularly "
+"organised.These tours can also include a mini tasting experience in our "
+"beloved English Market which can help create a unique relaxing interlude "
+"during or on termination of a private guided walk."
+msgstr ""
+"Jedes Programm wird erstellt, um den Interessen und zeitlichen "
+"Verpflichtungen von Einzelpersonen, Paaren, Familien oder Gruppen aus dem "
+"privaten, Bildungs- und Unternehmenssektor gerecht zu werden. Es werden "
+"regelmäßig private Spaziergänge von zwei, drei oder vier Stunden "
+"organisiert. Diese Touren können auch eine Mini-Verkostung in unserem "
+"beliebten englischen Markt beinhalten, die dazu beitragen kann, während oder "
+"nach Beendigung eines privaten geführten Spaziergangs ein einzigartiges, "
+"entspannendes Zwischenspiel zu schaffen."
+
+#: .\websiteproj\templates\index.html:83
+msgid "Important information"
+msgstr "Wichtige Informationen"
+
+#: .\websiteproj\templates\index.html:84
+msgid ""
+"Available all year round on request.Can be tailor made to meet the special "
+"interests, needs and preferred times of each individual client.Group rates "
+"available on request.Cork City Walks has experience of guided walking tours "
+"with local and international student groups.Special student rates apply"
+msgstr ""
+"Available all year round on request.Can be tailor made to meet the special "
+"interests, needs and preferred times of each individual client.Group rates "
+"available on request.Cork City Walks has experience of guided walking tours "
+"with local and international student groups.Special student rates apply"
+
+#: .\websiteproj\templates\index.html:91
+msgid "Covid Update"
+msgstr "Covid Update"
+
+#: .\websiteproj\templates\index.html:92
+msgid ""
+"During the current Covid-19 pandemic our primary concern throughout has been "
+"the safety of all who decide to walk with us to enjoy an informative and "
+"happy two hours exploring Cork, our city by the Lee.We in Cork City Walks "
+"have therefore cancelled our daily and private walking tours until the end "
+"of August 2020, when we will again review this policy for September and "
+"October. "
+msgstr ""
+"Während der aktuellen Covid-19-Pandemie war unser Hauptanliegen die "
+"Sicherheit aller, die sich entschließen, mit uns zu Fuß zu gehen, um eine "
+"informative und glückliche zweistündige Erkundung von Cork, unserer Stadt am "
+"Lee, zu genießen. Wir in Cork City Walks haben daher unsere tägliche Absage "
+"abgesagt und private Wandertouren bis Ende August 2020, wenn wir diese "
+"Richtlinie für September und Oktober erneut überprüfen werden. "
+
+#: .\websiteproj\templates\index.html:93
+msgid "Meanwhile, please stay safe and healthy. Our best wishes, Bart and Jack"
+msgstr ""
+"Bitte bleiben Sie in der Zwischenzeit sicher und gesund. Unsere besten "
+"Wünsche, Bart und Jack"
+
+#: .\websiteproj\templates\index.html:98
+msgid "Our staff"
+msgstr "Unsere Angestelten"
+
+#: .\websiteproj\templates\index.html:99
+msgid "Meet our wonderful tour guides"
+msgstr "Treffen Sie unsere wunderbaren Reiseleiter"
+
+#: .\websiteproj\templates\index.html:110
+msgid "Cancellation policy"
+msgstr "Stornierungsbedingungen"
+
+#: .\websiteproj\templates\index.html:111
+msgid ""
+" 100%% refund on cancellations 7 days + before booking date, 50%% refund on "
+"cancellations 2-6 days before booking date , No refund on cancellations less "
+"than 48 hours before booking date"
+msgstr ""
+"100 %% Rückerstattung bei Stornierungen 7 Tage + vor dem Buchungsdatum, 50 %"
+"% Rückerstattung bei Stornierungen 2-6 Tage vor dem Buchungsdatum, Keine "
+"Rückerstattung bei Stornierungen weniger als 48 Stunden vor dem Buchungsdatum"
+
+#: .\websiteproj\templates\index.html:114
+msgid "More About Us"
+msgstr "Mehr über uns"
+
+#: .\websiteproj\templates\index.html:116
+msgid "Opening times"
+msgstr "Öffnungszeiten"
+
+#: .\websiteproj\templates\index.html:117
+msgid "Booking form"
+msgstr "Buchungsformular"
+
+#: .\websiteproj\templates\index.html:118
+msgid "Contact us"
+msgstr "Kontaktiere uns"
+
+#: .\websiteproj\templates\index.html:119
+msgid "Accounting"
+msgstr "Buchhaltung"
+
+#: .\websiteproj\templates\index.html:123
+msgid "Visit our social pages"
+msgstr "Besuchen Sie unsere sozialen Seiten"
+
+#: .\websiteproj\templates\index.html:131
+msgid "News and Updates"
+msgstr "Neuigkeiten und Updates"
+
+#: .\websiteproj\templates\index.html:132
+msgid "Sign up to recieve news and promotions"
+msgstr "Melden Sie sich an, um Neuigkeiten und Werbeaktionen zu erhalten"
